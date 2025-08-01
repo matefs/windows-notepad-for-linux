@@ -2,6 +2,9 @@
 
 Este projeto é um bloco de notas simples feito em Python com interface gráfica usando Tkinter.
 
+<img width="819" height="603" alt="image" src="https://github.com/user-attachments/assets/f2247f4f-ae69-4cc6-952b-80a61cba520c" />
+
+
 ## Pré-requisitos
 
 - Python 3.9 ou superior
