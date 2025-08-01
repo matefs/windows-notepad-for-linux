@@ -1,0 +1,2 @@
+cx_Freeze>=6.15.12
+tk>=0.1.0  # Para sistemas que usam pip para tk
